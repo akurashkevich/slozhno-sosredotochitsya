@@ -149,11 +149,11 @@
   }
 }
 
-.accent-text-shadow-4px {
+.accent-text-shadow-regular {
   text-shadow: 4px 4px 0 var(--accent-color);
 }
 
-.accent-text-shadow-2px {
+.accent-text-shadow-small {
   text-shadow: 2px 2px 0 var(--accent-color);
 }
 
