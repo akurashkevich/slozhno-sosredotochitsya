@@ -4,7 +4,10 @@
   --accent-color: #ff0070;
   --logo-color: #db00ff;
   --text-color: #f1b2ce;
+  --title-color: #ff0070;
   --subtitle-color: #000028;
+  --button-color: #ff0070;
+  --decorated-zone-color: #ff0070;
 
   --font-family: "IBM Plex mono", monospace;
   --font-size-regular: 18px;
@@ -13,4 +16,6 @@
   --line-height-small: 1.125rem;
   --line-height-regular: 1.4625rem;
   --line-height-large: 5.98125rem;
+
+  --rec-visibility: visible;
 }
