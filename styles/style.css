@@ -269,7 +269,7 @@
   background-color: var(--accent-color);
 }
 
-.content__subtitle--level-2 {
+.content__subtitle--light {
   color: var(--subtitle-color);
   font-weight: inherit;
   background-color: var(--accent-color);
