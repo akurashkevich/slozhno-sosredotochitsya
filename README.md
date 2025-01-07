@@ -18,4 +18,4 @@
 
 ## Демо
 
-GitHub Pages: [ссылка](https://w1tcher6479.github.io/slozhno-sosredotochitsya/).
+GitHub Pages: [ссылка](https://akurashkevich.github.io/slozhno-sosredotochitsya/).
